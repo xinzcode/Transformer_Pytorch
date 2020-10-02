@@ -1,2 +1,2 @@
 # Transformer_Pytorch
-这是基于pytorch实现的多中文注释的Transformer模型。
+这是基于pytorch实现的多中文注释的Transformer模型，用于更好的理解Transformer模型。
